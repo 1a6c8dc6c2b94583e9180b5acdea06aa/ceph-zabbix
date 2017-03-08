@@ -5,6 +5,8 @@ rados_bin="/usr/bin/rados"
 
 # Initialising variables
 # See: http://ceph.com/docs/master/rados/operations/pg-states/
+# http://docs.ceph.com/docs/master/rados/operations/pg-states/
+
 creating=0
 active=0
 clean=0
